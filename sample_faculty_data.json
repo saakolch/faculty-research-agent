@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Dr. John Smith",
+    "title": "Associate Professor",
+    "department": "Computer Science and Engineering",
+    "research_interests": [
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Computer Vision"
+    ],
+    "bio": "Dr. Smith is an expert in machine learning and AI applications. His research focuses on deep learning algorithms for computer vision tasks.",
+    "email": "john.smith@hkust-gz.edu.cn",
+    "url": "https://hkust-gz.edu.cn/faculty/john-smith",
+    "google_scholar": "https://scholar.google.com/citations?user=123456",
+    "research_gate": "https://www.researchgate.net/profile/John_Smith",
+    "publications": [
+      "Deep Learning for Computer Vision: A Comprehensive Survey",
+      "Neural Networks in Multi-Agent Systems",
+      "Reinforcement Learning for Autonomous Vehicles"
+    ]
+  },
+  {
+    "name": "Dr. Sarah Johnson",
+    "title": "Assistant Professor",
+    "department": "Data Science and Analytics",
+    "research_interests": [
+      "Data Mining",
+      "Big Data Analytics",
+      "Statistical Learning",
+      "Predictive Modeling"
+    ],
+    "bio": "Dr. Johnson specializes in data mining and big data analytics. Her work involves developing statistical learning models for predictive analytics.",
+    "email": "sarah.johnson@hkust-gz.edu.cn",
+    "url": "https://hkust-gz.edu.cn/faculty/sarah-johnson",
+    "google_scholar": "https://scholar.google.com/citations?user=789012",
+    "research_gate": "https://www.researchgate.net/profile/Sarah_Johnson",
+    "publications": [
+      "Big Data Analytics in Healthcare",
+      "Statistical Learning for Predictive Modeling",
+      "Data Mining Techniques for Business Intelligence"
+    ]
+  },
+  {
+    "name": "Dr. Michael Chen",
+    "title": "Professor",
+    "department": "Robotics and Automation",
+    "research_interests": [
+      "Robotics",
+      "Multi-Agent Systems",
+      "Autonomous Systems",
+      "Control Theory"
+    ],
+    "bio": "Dr. Chen is a leading expert in robotics and multi-agent systems. His research focuses on autonomous systems and control theory.",
+    "email": "michael.chen@hkust-gz.edu.cn",
+    "url": "https://hkust-gz.edu.cn/faculty/michael-chen",
+    "google_scholar": "https://scholar.google.com/citations?user=345678",
+    "research_gate": "https://www.researchgate.net/profile/Michael_Chen",
+    "publications": [
+      "Multi-Agent Systems in Robotics",
+      "Autonomous Control Systems",
+      "Robotic Learning and Adaptation"
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+2025-09-01 09:55:48,976 - WARNING - No OpenAI API key provided - LLM features will be limited
+2025-09-01 09:55:48,986 - INFO - Use pytorch device_name: cpu
+2025-09-01 09:55:48,987 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-01 09:56:00,970 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-09-01 09:56:22,403 - INFO - Sentence transformer model loaded
+2025-09-01 09:56:22,680 - INFO - Found 0 matching faculty members
+2025-09-01 10:02:13,245 - WARNING - No OpenAI API key provided - LLM features will be limited
+2025-09-01 10:02:13,251 - INFO - Use pytorch device_name: cpu
+2025-09-01 10:02:13,251 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-01 10:02:20,944 - INFO - Sentence transformer model loaded
+2025-09-01 10:02:21,682 - INFO - Found 0 matching faculty members
+2025-09-01 10:03:48,847 - WARNING - No OpenAI API key provided - LLM features will be limited
+2025-09-01 10:03:48,852 - INFO - Use pytorch device_name: cpu
+2025-09-01 10:03:48,853 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-01 10:03:54,028 - INFO - Sentence transformer model loaded
+2025-09-01 10:03:54,976 - INFO - Found 0 matching faculty members

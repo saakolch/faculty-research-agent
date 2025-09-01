@@ -1,0 +1,29 @@
+2025-09-01 10:06:12,882 - INFO - ====== WebDriver manager ======
+2025-09-01 10:06:14,297 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-01 10:06:14,417 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-01 10:06:14,480 - INFO - There is no [win64] chromedriver "139.0.7258.154" for browser google-chrome "139.0.7258" in cache
+2025-09-01 10:06:14,480 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-01 10:06:14,766 - INFO - WebDriver version 139.0.7258.154 selected
+2025-09-01 10:06:14,771 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.154/win32/chromedriver-win32.zip
+2025-09-01 10:06:14,772 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.154/win32/chromedriver-win32.zip
+2025-09-01 10:06:36,974 - INFO - Driver downloading response is 200
+2025-09-01 10:06:40,616 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-01 10:06:41,690 - INFO - Driver has been saved in cache [C:\Users\stask\.wdm\drivers\chromedriver\win64\139.0.7258.154]
+2025-09-01 10:06:44,063 - INFO - Accessing faculty directory: https://hkust-gz.edu.cn/en/faculty
+2025-09-01 10:06:46,992 - INFO - Found faculty link: https://facultyprofiles.hkust.edu.hk/
+2025-09-01 10:06:46,997 - INFO - Found faculty link: https://facultyprofiles.hkust.edu.hk/
+2025-09-01 10:06:47,001 - INFO - Found faculty link: https://facultyprofiles.hkust.edu.hk/
+2025-09-01 10:06:47,006 - INFO - Found faculty link: https://facultyprofiles.hkust.edu.hk/
+2025-09-01 10:06:47,024 - INFO - Found faculty link: https://facultyprofiles.hkust.edu.hk/
+2025-09-01 10:06:47,030 - INFO - Found faculty link: https://facultyprofiles.hkust.edu.hk/
+2025-09-01 10:06:47,041 - INFO - Found faculty link: https://facultyprofiles.hkust.edu.hk/
+2025-09-01 10:06:47,053 - INFO - Found faculty link: https://facultyprofiles.hkust.edu.hk/
+2025-09-01 10:07:27,178 - INFO - Found 1 unique faculty links
+2025-09-01 10:07:27,179 - INFO - Starting to scrape 1 faculty profiles
+2025-09-01 10:07:27,179 - INFO - Scraping profile 1/1
+2025-09-01 10:07:27,180 - INFO - Extracting profile from: https://facultyprofiles.hkust.edu.hk/
+2025-09-01 10:07:50,627 - INFO - Successfully extracted profile for: 
+2025-09-01 10:07:52,629 - INFO - Successfully scraped 0 faculty profiles
+2025-09-01 10:07:55,000 - INFO - 127.0.0.1 - - [01/Sep/2025 10:07:55] "POST /scrape HTTP/1.1" 200 -
+2025-09-01 10:07:55,323 - INFO - 127.0.0.1 - - [01/Sep/2025 10:07:55] "GET /files HTTP/1.1" 200 -
+2025-09-01 10:11:55,497 - INFO -  * Detected change in 'C:\\Users\\stask\\Documents\\faculty-research-agent\\app.py', reloading
